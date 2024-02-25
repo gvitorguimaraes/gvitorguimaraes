@@ -1,6 +1,6 @@
 <h2>Hey! 🇧🇷</h2>
 
-<h4>I'm Gabriel Vitor and here you will find my weird inventions, scripts with no context and, of course, my projects. 🥸</h4>
+<h4>I'm Gabriel Vitor and here you will find my weird inventions, scripts with no context, and of course, my personal projects. 🥸</h4>
 
   ##
 <div>
